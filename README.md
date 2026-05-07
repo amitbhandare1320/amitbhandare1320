@@ -1,6 +1,12 @@
 # 💫 About Me:
-🚀 Developer | Cybersecurity Enthusiast<br>💻 Skilled in HTML, CSS, JavaScript, Python<br>🔒 Exploring Cybersecurity & Ethical Hacking<br>📚 Passionate about Web Development & Security<br>📊 Learning Networking & System Security<br><br>💡 Building, Learning, and Securing the Web!<br><br>
 
+🚀 DevOps Enthusiast | Cloud & Automation Learner
+💻 Skilled in HTML, CSS, JavaScript, Python
+⚙️ Exploring CI/CD, Docker, and Cloud Technologies
+☁️ Learning AWS/Azure & Infrastructure Management
+📊 Interested in Monitoring, Automation & System Reliability
+
+💡 Building, Automating, and Scaling Systems!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amitbhandare123) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amit-bhandare-1208982a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
